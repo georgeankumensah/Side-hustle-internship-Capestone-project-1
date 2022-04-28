@@ -1,0 +1,23 @@
+{
+  "name": "side-hustle-internship-capestone-project-1",
+  "version": "1.0.0",
+  "description": "a static server built with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeankumensah/Side-hustle-internship-Capestone-project-1.git"
+  },
+  "author": "capstone-group-18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeankumensah/Side-hustle-internship-Capestone-project-1/issues"
+  },
+  "homepage": "https://github.com/georgeankumensah/Side-hustle-internship-Capestone-project-1#readme",
+  "dependencies": {
+    "systeminformation": "^5.11.14"
+  }
+}
